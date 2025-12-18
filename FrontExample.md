@@ -1,4 +1,5 @@
 # Dev // SG Admin Panel // Settings – IP Directory (frontend)
+<img width="315" height="371" alt="image" src="https://github.com/user-attachments/assets/1eeabc88-e3e9-4089-b77b-d6e34e21e879" />
 
 ## 1. Проблема / цель
 
